@@ -1,5 +1,5 @@
 # jpmorgan_demo
-Main.java is main entry point.
+Main.java is the main entry point.
 
 To run from console: 
 java -jar test.jar <filename>
