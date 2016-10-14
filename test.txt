@@ -1,0 +1,7 @@
+AddStock POP Common 8 0 100
+DividendYield POP 100
+PERatio POP 100
+AddStock TEA Common 0 0 100
+RecordTrade TEA 15102016 00:00:01 1 Buy 0.01
+VWSP TEA
+CalculateIndex
